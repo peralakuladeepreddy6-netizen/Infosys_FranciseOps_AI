@@ -26,10 +26,11 @@ This repository contains the Milestone 1 deliverable for the Infosys Springboard
 4. Click the generated Ngrok public URL to launch the portal.
 
 ## Screenshots
-![Login Page](login.png)
-![Signup Page](signup.png)
-![Forgot Password - OTP Route](forgot_otp.png)
-![Forgot Password - Security Question Route](forgot_sq.png)
-![OTP Email Received](otp_email.png)
-![User Dashboard](user_dashboard.png)
-![Admin Dashboard](admin_dashboard.png)
+
+* ![Login Page](screenshots/login.png)
+* ![Signup Page](screenshots/signup.png)
+* ![Forgot Password - OTP Route](screenshots/forgot_otp.png)
+* ![Forgot Password - Security Question Route](screenshots/forgot_sq.png)
+* ![OTP Email Received](screenshots/otp_email.png)
+* ![User Dashboard](screenshots/user_dashboard.png)
+* ![Admin Dashboard](screenshots/admin_dashboard.png)
